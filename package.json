@@ -6,13 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
-
-  },
-  "dependencies" : {
-    "passport" : "~0.1.17",
-    "passport-local" : "~0.1.6",
-    "bcrypt-nodejs" : "latest",
-  },
+},
     "repository": {
     "type": "git",
     "url": "git+https://github.com/abeeralshaer/abeer-node-server.git"
