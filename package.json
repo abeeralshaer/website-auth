@@ -1,0 +1,29 @@
+{
+  "name": "",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+
+  },
+  "dependencies" : {
+    "passport" : "~0.1.17",
+    "passport-local" : "~0.1.6",
+    "bcrypt-nodejs" : "latest",
+    "body-parser": "~1.0.0",
+    "cookie-parser": "~1.0.0",
+    "method-override": "~1.0.0",
+  },
+    "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abeeralshaer/abeer-node-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abeeralshaer/abeer-node-server/issues"
+  },
+  "homepage": "https://github.com/abeeralshaer/abeer-node-server#readme"
+}
